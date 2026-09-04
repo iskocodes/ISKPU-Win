@@ -1,2 +1,2 @@
 # ISKPU-Win
-The long awaited by nobody Windows port of ISKPU!
+The long awaited (by nobody) Windows port of ISKPU!
